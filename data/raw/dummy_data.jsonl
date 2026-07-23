@@ -1,0 +1,4 @@
+{"text": "原神启动！今天深渊真难打，#￥%……&*（乱码符）", "meta": {"source": "tieba", "language": "zh", "is_code": false}, "id": "5febe1d4-8a23-4ea0-8076-f405d9b63544", "quality_score": null, "rejected_reason": null}
+{"text": "def calculate_damage(atk, def):\n    # TODO: 修复这个bug\n    return atk - def", "meta": {"source": "github_genshin_sim", "language": "python", "is_code": true}, "id": "4818b6a4-19f3-4246-b0f1-ca33e4d57043", "quality_score": null, "rejected_reason": null}
+{"text": "啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊", "meta": {"source": "steam_reviews", "language": "zh", "is_code": false}, "id": "8e3487cd-f4e5-411a-a59e-be689e516616", "quality_score": null, "rejected_reason": null}
+{"text": "<html><body>正常攻略文本</body><script>恶意代码</script></html>", "meta": {"source": "wiki", "language": "zh", "is_code": false}, "id": "05af4d72-4448-479f-99f2-d043ef2c3c3d", "quality_score": null, "rejected_reason": null}

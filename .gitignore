@@ -216,3 +216,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific ignores
+# macOS system files
+.DS_Store
+
+# Large or generated data files
+data/raw/*
+data/processed/*
+data/rejected/*
+
+# Keep empty data folders in GitHub
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/rejected/.gitkeep
+
+# Optional: keep tiny dummy outputs for demonstration
+!data/raw/dummy_data.jsonl
+!data/processed/clean_data.jsonl
+!data/rejected/rejected_data.jsonl
+!reports/quality_report_dummy.md
